@@ -2,7 +2,7 @@
 This is demo for git and github learning.
 
 # Teacher
-Shraddha mam
+Shraddha mam.
 
 # Student 
-Chanchal
+Chanchal.
